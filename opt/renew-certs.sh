@@ -1,0 +1,1 @@
+/opt/certbot-auto certonly --webroot -w /var/www/html/ -d examplesite.com
